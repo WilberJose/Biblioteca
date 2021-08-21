@@ -1,0 +1,6 @@
+C:\Users\wilbe\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\wilbe\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\wilbe\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\wilbe\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

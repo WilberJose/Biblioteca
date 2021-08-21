@@ -1,0 +1,10 @@
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\bin\Debug\UsoBiblioteca.exe.config
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\bin\Debug\UsoBiblioteca.exe
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\bin\Debug\UsoBiblioteca.pdb
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\bin\Debug\Biblioteca.dll
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\obj\Debug\UsoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\obj\Debug\UsoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\obj\Debug\UsoBiblioteca.csproj.CopyComplete
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\obj\Debug\UsoBiblioteca.exe
+C:\Users\wilbe\source\repos\UsoBiblioteca\UsoBiblioteca\obj\Debug\UsoBiblioteca.pdb
